@@ -1,4 +1,4 @@
-- 👋 Hi, I am Terry Trippany, @TechTrip-Creospan
+- 👋 Hi, My Name is Trip (Terry Trippany, @TechTrip-Creospan)
 - 👀 I am The Director of Cloud and Integration at Creospan, Inc.
 - 🌱 Specializing in App Modernization and Optimization in the Cloud, Automation, AI and Data Analytics
 - 💞️ I am looking to mentor and collaborate on technology, software engineering and the processes surrounding such disciplines
