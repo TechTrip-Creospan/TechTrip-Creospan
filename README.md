@@ -1,6 +1,6 @@
 - 👋 Hi, I am Terry Trippany, @TechTrip-Creospan
-- 👀 I am The Director of Cloud Engineering at Creospan, Inc.
-- 🌱 I am currently working as an Architect and Engineer Developing Event Driven Microservices using Kafka Streams
+- 👀 I am The Director of Cloud and Integration at Creospan, Inc.
+- 🌱 Specializing in App Modernization and Optimization in the Cloud, Automation, AI and Data Analytics
 - 💞️ I am looking to mentor and collaborate on technology, software engineering and the processes surrounding such disciplines
 - 📫 Reach me by e-mail, Terry.Trippany@Creospan.com
 
